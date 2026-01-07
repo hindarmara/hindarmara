@@ -1,5 +1,25 @@
 ## Hi there 👋
 
+I’m a BCIT-trained computer scientist with a strong interest in the .NET ecosystem.
+I focus on building backend-heavy applications, real-time systems, and clean, maintainable architectures.
+
+### What I work with
+- C#, .NET, ASP.NET Core
+- Blazor (WASM & Server)
+- Entity Framework Core, SQL Server, SQLite
+- Authentication & Authorization (Identity, JWT)
+- Real-time communication (SignalR, SSE)
+- .NET Aspire, MCP-style service orchestration
+- Azure, Docker, CI/CD
+
+### What you’ll find here
+- Academic and personal projects
+- Experiments with distributed systems and real-time APIs
+- Notes from things I break, fix, and refactor
+
+I’m always learning, but I don’t ship half-understood code.
+Scroll down for projects.
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
