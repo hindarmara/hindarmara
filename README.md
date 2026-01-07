@@ -1,21 +1,26 @@
 👋 Hi, I’m Andre
 
-I’m a BCIT-trained computer scientist with a strong interest in the .NET ecosystem.
-I focus on building backend-heavy applications, real-time systems, and clean, maintainable architectures.
+I’m a BCIT-trained computer scientist focused on building web and mobile applications
+with backend-driven design and AI integration.
 
 ### What I work with
 - C#, .NET, ASP.NET Core
 - Blazor (WASM & Server)
+- Web APIs, Minimal APIs
 - Entity Framework Core, SQL Server, SQLite
 - Authentication & Authorization (Identity, JWT)
 - Real-time communication (SignalR, SSE)
+- iOS development with Swift / SwiftUI
+- Cross-platform mobile development with Flutter (Dart)
+- AI integration (LLM APIs, streaming responses, backend orchestration)
+- Working knowledge of Python and Java
 - .NET Aspire, MCP-style service orchestration
 - Azure, Docker, CI/CD
 
 ### What you’ll find here
-- Academic and personal projects
-- Experiments with distributed systems and real-time APIs
-- Notes from things I break, fix, and refactor
+- Web and mobile applications
+- Real-time and distributed .NET services
+- Academic projects and practical experiments
 
 I’m always learning, but I don’t ship half-understood code.
 Scroll down for projects.
