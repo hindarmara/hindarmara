@@ -1,4 +1,4 @@
-## Hi there 👋
+👋 ## Hi, I'm Andre
 
 I’m a BCIT-trained computer scientist with a strong interest in the .NET ecosystem.
 I focus on building backend-heavy applications, real-time systems, and clean, maintainable architectures.
